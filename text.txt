@@ -1,0 +1,8 @@
+git session
+
+n = number of ways 
+
+1.gitbash -push===>GUI
+2.gitdesktop
+3.gitbash-clone
+4.vscode-push
